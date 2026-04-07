@@ -2,7 +2,7 @@ import { SKILLS } from "./data";
 
 export default function Hero() {
   return (
-    <section className="hero">
+    <section id="about" className="hero">
       <div>
         <p>Product Designer & Developer</p>
         <h1 className="hero-title">

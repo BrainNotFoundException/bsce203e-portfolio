@@ -5,7 +5,6 @@ export default function Navbar() {
       <div className="nav-links">
         <a href="#">Work</a>
         <a href="#">About</a>
-        <a href="#">Writing</a>
       </div>
     </nav>
   );
