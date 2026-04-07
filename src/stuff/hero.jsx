@@ -9,10 +9,10 @@ export default function Hero() {
           Crafting <i>digital</i> experiences
         </h1>
 
-        <div>
+        {/* <div>
           <button className="btn-primary">View my work</button>
           <button className="btn-ghost">About me</button>
-        </div>
+        </div> */}
       </div>
 
       <div>
