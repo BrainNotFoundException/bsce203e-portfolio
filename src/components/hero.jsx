@@ -6,13 +6,8 @@ export default function Hero() {
       <div>
         <p>Product Designer & Developer</p>
         <h1 className="hero-title">
-          Crafting <i>digital</i> experiences
+          Building Mostly Games
         </h1>
-
-        {/* <div>
-          <button className="btn-primary">View my work</button>
-          <button className="btn-ghost">About me</button>
-        </div> */}
       </div>
 
       <div>
